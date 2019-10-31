@@ -7,7 +7,7 @@ with open('commits.json', 'r') as json_file:
 
 
 html_output = "<html><body>"
-for element in json_commits:
+for element in reversed(json_commits):
     if "Merge branch" in element['message'] or "Merge remote" in element['message']:
         continue
     html_output += "<div>\n"
