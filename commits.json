@@ -1,0 +1,3161 @@
+[
+  {
+    "short_id": "0eeabea1",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAdicionar profissão de contador para todos os questionários\n\nSee merge request dgi/censosuas!366",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-31T16:39:02.000-02:00"
+  },
+  {
+    "short_id": "9e3b6752",
+    "title": "Adicionar profissão Contador no RH [proteção_especial]",
+    "message": "Adicionar profissão Contador no RH [proteção_especial]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-31T15:36:22.000-03:00"
+  },
+  {
+    "short_id": "9c497aab",
+    "title": "Fix identação do ini [gestao_estadual]",
+    "message": "Fix identação do ini [gestao_estadual]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-31T15:35:32.000-03:00"
+  },
+  {
+    "short_id": "c5f4d168",
+    "title": "Adicionar profissão contador no RH [gestao_estadual]",
+    "message": "Adicionar profissão contador no RH [gestao_estadual]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-31T15:34:49.000-03:00"
+  },
+  {
+    "short_id": "265de5e9",
+    "title": "Adicionar profissão contador no RH [fundo_municipal]",
+    "message": "Adicionar profissão contador no RH [fundo_municipal]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-31T15:34:23.000-03:00"
+  },
+  {
+    "short_id": "09adb9af",
+    "title": "Adicionar profissão contador no RH [fundo_estadual]",
+    "message": "Adicionar profissão contador no RH [fundo_estadual]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-31T15:33:58.000-03:00"
+  },
+  {
+    "short_id": "9da05390",
+    "title": "Adicionar profissão contador no RH [familia_acolhedora]",
+    "message": "Adicionar profissão contador no RH [familia_acolhedora]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-31T15:33:32.000-03:00"
+  },
+  {
+    "short_id": "ea4e09c3",
+    "title": "Adicionar profissão contador no RH [CREAS_POP]",
+    "message": "Adicionar profissão contador no RH [CREAS_POP]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-31T15:32:48.000-03:00"
+  },
+  {
+    "short_id": "62e0f511",
+    "title": "Adicionar profissao contador no RH [CREAS]",
+    "message": "Adicionar profissao contador no RH [CREAS]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-31T15:31:33.000-03:00"
+  },
+  {
+    "short_id": "3b6ad6a7",
+    "title": "Adicionar profissao contador no RH [CRAS]",
+    "message": "Adicionar profissao contador no RH [CRAS]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-31T15:30:49.000-03:00"
+  },
+  {
+    "short_id": "10e44e88",
+    "title": "Remover linha comentada do questoes.ini [conselho_municipal]",
+    "message": "Remover linha comentada do questoes.ini [conselho_municipal]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-31T15:29:26.000-03:00"
+  },
+  {
+    "short_id": "424a35a9",
+    "title": "Remover linha comentada do questoes.ini [conselho_estadual]",
+    "message": "Remover linha comentada do questoes.ini [conselho_estadual]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-31T15:28:38.000-03:00"
+  },
+  {
+    "short_id": "472096a6",
+    "title": "Adicionar profissão contador [acolhimento_municipal]",
+    "message": "Adicionar profissão contador [acolhimento_municipal]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-31T15:27:31.000-03:00"
+  },
+  {
+    "short_id": "9e11cbc8",
+    "title": "Adicionar profissão contador [acolhimento_estadual]",
+    "message": "Adicionar profissão contador [acolhimento_estadual]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-31T15:26:03.000-03:00"
+  },
+  {
+    "short_id": "ddd0a8f9",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAdicionar profissao de contador [convivencia]\n\nSee merge request dgi/censosuas!365",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-31T12:42:53.000-02:00"
+  },
+  {
+    "short_id": "d4e92973",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-31T11:42:17.000-03:00"
+  },
+  {
+    "short_id": "52e4675e",
+    "title": "Adicionar profissao de contador [convivencia]",
+    "message": "Adicionar profissao de contador [convivencia]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-31T11:42:11.000-03:00"
+  },
+  {
+    "short_id": "9143fd5f",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAdicionar co_seq_dirigente no gestao_municipal\n\nSee merge request dgi/censosuas!364",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-31T11:45:40.000-02:00"
+  },
+  {
+    "short_id": "2a649e59",
+    "title": "Adicionar co_seq_dirigente no gestao_municipal",
+    "message": "Adicionar co_seq_dirigente no gestao_municipal\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-31T10:43:22.000-03:00"
+  },
+  {
+    "short_id": "8b2d414b",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAlterar regra de CPF para remover '.' e '-' da string [ferramenta pdf]\n\nSee merge request dgi/censosuas!360",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-29T17:58:45.000-02:00"
+  },
+  {
+    "short_id": "c506da13",
+    "title": "Alterar regra de CPF para remover '.' e '-' da string [ferramenta pdf]",
+    "message": "Alterar regra de CPF para remover '.' e '-' da string [ferramenta pdf]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-29T16:52:43.000-03:00"
+  },
+  {
+    "short_id": "3707c268",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nConsertar identação\n\nSee merge request dgi/censosuas!359",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-29T17:33:29.000-02:00"
+  },
+  {
+    "short_id": "7035106f",
+    "title": "Consertar identação",
+    "message": "Consertar identação\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-29T16:33:12.000-03:00"
+  },
+  {
+    "short_id": "b06e63ff",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nConsertar string de id errada para convivencia [ferramenta PDF]\n\nSee merge request dgi/censosuas!358",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-29T15:37:46.000-02:00"
+  },
+  {
+    "short_id": "a5fe1486",
+    "title": "Consertar string de id errada para convivencia [ferramenta PDF]",
+    "message": "Consertar string de id errada para convivencia [ferramenta PDF]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-29T14:37:24.000-03:00"
+  },
+  {
+    "short_id": "bb457731",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAdicionar nova condicao para nao carregar tabela vazia [ferramenta pdf]\n\nSee merge request dgi/censosuas!357",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-29T12:17:18.000-02:00"
+  },
+  {
+    "short_id": "1801c3bd",
+    "title": "Adicionar nova condicao para nao carregar tabela vazia [ferramenta pdf]",
+    "message": "Adicionar nova condicao para nao carregar tabela vazia [ferramenta pdf]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-29T11:17:05.000-03:00"
+  },
+  {
+    "short_id": "99068527",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!356",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-29T12:15:10.000-02:00"
+  },
+  {
+    "short_id": "1deea24d",
+    "title": "Adicionar nova condicao para nao carregar tabela vazia [ferramenta pdf]",
+    "message": "Adicionar nova condicao para nao carregar tabela vazia [ferramenta pdf]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-29T11:14:56.000-03:00"
+  },
+  {
+    "short_id": "01f20d27",
+    "title": "Adicionar CPFs com permissão para acessar ferramenta PDF",
+    "message": "Adicionar CPFs com permissão para acessar ferramenta PDF\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-29T11:04:19.000-03:00"
+  },
+  {
+    "short_id": "8cd93717",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!355",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-29T11:51:54.000-02:00"
+  },
+  {
+    "short_id": "9658bce6",
+    "title": "Remover coloração vermelha do tipo fundo municipal e fundo estadual",
+    "message": "Remover coloração vermelha do tipo fundo municipal e fundo estadual\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-29T10:50:32.000-03:00"
+  },
+  {
+    "short_id": "2cdc7b7c",
+    "title": "Alterar gerapdf para o cabecalho mostrar o ano correto",
+    "message": "Alterar gerapdf para o cabecalho mostrar o ano correto\n\nComo anteriormente o gerapdf gerava só do ano atual puxando de uma propriedade\nno config.ini, foi adicionada um str_replace para trocar o ano por 2018 caso\neste seja o ano de referencia sendo utilizado pelo usuario.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-29T10:49:26.000-03:00"
+  },
+  {
+    "short_id": "75d24270",
+    "title": "Adicionar logica para fundo estadual [Ferramenta PDF]",
+    "message": "Adicionar logica para fundo estadual [Ferramenta PDF]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-29T10:43:20.000-03:00"
+  },
+  {
+    "short_id": "18bf5069",
+    "title": "Remover comentarios do carregacadsuas fundo_estadual",
+    "message": "Remover comentarios do carregacadsuas fundo_estadual\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-29T10:24:22.000-03:00"
+  },
+  {
+    "short_id": "fc3a8b86",
+    "title": "Adicionar target blank para todos botões [baixar PDF] [Ferramenta PDF]",
+    "message": "Adicionar target blank para todos botões [baixar PDF] [Ferramenta PDF]\n\nA fim de o usuário não perder os parametros quando clicar para baixar,\ndessa forma o sistema abre em nova janela.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-29T10:24:01.000-03:00"
+  },
+  {
+    "short_id": "d95a1439",
+    "title": "Adicionar logica fundo municipal [Ferramenta PDF]",
+    "message": "Adicionar logica fundo municipal [Ferramenta PDF]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-29T10:23:02.000-03:00"
+  },
+  {
+    "short_id": "38b41fd3",
+    "title": "Remover coloracao vermelha gestao_estadual",
+    "message": "Remover coloracao vermelha gestao_estadual\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T19:51:42.000-03:00"
+  },
+  {
+    "short_id": "279bb839",
+    "title": "Adicionar logica para gestao_estadual [Ferramenta PDF]",
+    "message": "Adicionar logica para gestao_estadual [Ferramenta PDF]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T19:51:24.000-03:00"
+  },
+  {
+    "short_id": "b96d774a",
+    "title": "Remover chamada de id errado [Ferramenta PDF]",
+    "message": "Remover chamada de id errado [Ferramenta PDF]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T19:51:03.000-03:00"
+  },
+  {
+    "short_id": "c0b29fbe",
+    "title": "Melhorar codigo repetido",
+    "message": "Melhorar codigo repetido\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T19:50:33.000-03:00"
+  },
+  {
+    "short_id": "7b991b7b",
+    "title": "Remover coloração vermelha [Ferramenta PDF]",
+    "message": "Remover coloração vermelha [Ferramenta PDF]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T19:43:07.000-03:00"
+  },
+  {
+    "short_id": "baa0871e",
+    "title": "Adicionar condicao diferenciada para DF gestao_mun [Ferramenta PDF]",
+    "message": "Adicionar condicao diferenciada para DF gestao_mun [Ferramenta PDF]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T19:42:44.000-03:00"
+  },
+  {
+    "short_id": "5b969282",
+    "title": "Adicionar logica para gestao_municipal [Ferramenta PDF]",
+    "message": "Adicionar logica para gestao_municipal [Ferramenta PDF]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T19:41:58.000-03:00"
+  },
+  {
+    "short_id": "9b218579",
+    "title": "Remover var_dump [Ferramenta PDF]",
+    "message": "Remover var_dump [Ferramenta PDF]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T19:40:42.000-03:00"
+  },
+  {
+    "short_id": "fffb6cc3",
+    "title": "Consertar id errado conselho_municipal [Ferramenta PDF]",
+    "message": "Consertar id errado conselho_municipal [Ferramenta PDF]\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T19:40:01.000-03:00"
+  },
+  {
+    "short_id": "b7d5b3f0",
+    "title": "Adicionar logica para familia_acolhedora ferramenta de PDF",
+    "message": "Adicionar logica para familia_acolhedora ferramenta de PDF\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T19:31:08.000-03:00"
+  },
+  {
+    "short_id": "2f944766",
+    "title": "Remover colorações vermelhas nas unidades já desenvolvidas",
+    "message": "Remover colorações vermelhas nas unidades já desenvolvidas\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T19:11:05.000-03:00"
+  },
+  {
+    "short_id": "6bdb939a",
+    "title": "Adicionar logica do CREAS para ferramenta de PDF e adicionar comentarios",
+    "message": "Adicionar logica do CREAS para ferramenta de PDF e adicionar comentarios\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T19:10:36.000-03:00"
+  },
+  {
+    "short_id": "51900aba",
+    "title": "Adicionar logica do conselho estadual para ferramenta de PDF",
+    "message": "Adicionar logica do conselho estadual para ferramenta de PDF\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T18:53:57.000-03:00"
+  },
+  {
+    "short_id": "81117d35",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T18:44:00.000-03:00"
+  },
+  {
+    "short_id": "ce0f2c04",
+    "title": "Remover coloracao vermelha do conselho municipal",
+    "message": "Remover coloracao vermelha do conselho municipal\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T18:43:50.000-03:00"
+  },
+  {
+    "short_id": "392e5ae1",
+    "title": "Adicionar logica para conselho municipal ferramenta PDF",
+    "message": "Adicionar logica para conselho municipal ferramenta PDF\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T18:34:44.000-03:00"
+  },
+  {
+    "short_id": "48f52842",
+    "title": "Apagar codigo comentado e melhorar identacao",
+    "message": "Apagar codigo comentado e melhorar identacao\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T16:37:03.000-03:00"
+  },
+  {
+    "short_id": "9ba10fda",
+    "title": "Remover cor vermelha valor inicial",
+    "message": "Remover cor vermelha valor inicial\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T16:24:34.000-03:00"
+  },
+  {
+    "short_id": "b9e3f80e",
+    "title": "Remover coloracao vermelha dos tipos finalizados (apenas para controle)",
+    "message": "Remover coloracao vermelha dos tipos finalizados (apenas para controle)\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T16:23:59.000-03:00"
+  },
+  {
+    "short_id": "d4044748",
+    "title": "Adicionar logica ferramenta pdf para convivencia (centro de convivencia)",
+    "message": "Adicionar logica ferramenta pdf para convivencia (centro de convivencia)\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T16:23:09.000-03:00"
+  },
+  {
+    "short_id": "8f9501cf",
+    "title": "Adicionar logica ferramenta pdf para creas_pop (centro pop)",
+    "message": "Adicionar logica ferramenta pdf para creas_pop (centro pop)\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-25T15:46:51.000-03:00"
+  },
+  {
+    "short_id": "21710136",
+    "title": "Remover dump",
+    "message": "Remover dump\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T19:24:09.000-03:00"
+  },
+  {
+    "short_id": "50bc3c40",
+    "title": "Remover comentarios de teste",
+    "message": "Remover comentarios de teste\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T19:23:20.000-03:00"
+  },
+  {
+    "short_id": "94f1d810",
+    "title": "Alterar posicionamento da case 'cras' e remover codigo comentado",
+    "message": "Alterar posicionamento da case 'cras' e remover codigo comentado\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T19:23:00.000-03:00"
+  },
+  {
+    "short_id": "89428ca9",
+    "title": "Adicionar final _2018 nos inis de bdlink para puxar dados de 2018",
+    "message": "Adicionar final _2018 nos inis de bdlink para puxar dados de 2018\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T19:14:14.000-03:00"
+  },
+  {
+    "short_id": "3feebcb5",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!346",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-24T20:03:56.000-02:00"
+  },
+  {
+    "short_id": "86756775",
+    "title": "Finalizar logica busca de pdf protecao_especial, adicionar comentarios",
+    "message": "Finalizar logica busca de pdf protecao_especial, adicionar comentarios\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T19:01:58.000-03:00"
+  },
+  {
+    "short_id": "86fc8a70",
+    "title": "Adicionar comentario e inicio da protecao_especial (ferramenta/pdf)",
+    "message": "Adicionar comentario e inicio da protecao_especial (ferramenta/pdf)\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T18:14:13.000-03:00"
+  },
+  {
+    "short_id": "0fba4f1e",
+    "title": "Remover defines comentado",
+    "message": "Remover defines comentado\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T18:09:23.000-03:00"
+  },
+  {
+    "short_id": "e180e43f",
+    "title": "Alterar mensagem para deixar claro que nao foi encontrada preenchido",
+    "message": "Alterar mensagem para deixar claro que nao foi encontrada preenchido\n\nA mensagem de erro dizia nenhuma unidade encontrada, porem ele checa\npor questionarios concluidos. Dessa forma unidades que não concluiram\nsão ignoradas e a nova mensagem deixa mais claro isso.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T18:04:48.000-03:00"
+  },
+  {
+    "short_id": "b2373c58",
+    "title": "Adicionar mensagens de 'nenhuma unidade encontrada' caso array vazio",
+    "message": "Adicionar mensagens de 'nenhuma unidade encontrada' caso array vazio\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T17:57:55.000-03:00"
+  },
+  {
+    "short_id": "08d40571",
+    "title": "Adicionar CSS para facilitar visualizacao das unidades nao implementadas",
+    "message": "Adicionar CSS para facilitar visualizacao das unidades nao implementadas\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T17:57:29.000-03:00"
+  },
+  {
+    "short_id": "4dccbd2b",
+    "title": "Adicionar imagem de loading apos clicar botao de buscar (ferramenta pdf)",
+    "message": "Adicionar imagem de loading apos clicar botao de buscar (ferramenta pdf)\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T17:41:50.000-03:00"
+  },
+  {
+    "short_id": "d644311f",
+    "title": "Adicionar imagem de loading para ferramenta de PDF",
+    "message": "Adicionar imagem de loading para ferramenta de PDF\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T17:33:43.000-03:00"
+  },
+  {
+    "short_id": "0ef6ccef",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nNova condicao para id_protecao_especial com problemas\n\nSee merge request dgi/censosuas!345",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-24T18:30:45.000-02:00"
+  },
+  {
+    "short_id": "d503e148",
+    "title": "Nova condicao para id_protecao_especial com problemas",
+    "message": "Nova condicao para id_protecao_especial com problemas\n\nChecando também por valor nulo pois o erro persistia chegando nos emails\nde usuarios tentando finalizar o questionario com esse campo em branco\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T17:30:18.000-03:00"
+  },
+  {
+    "short_id": "9e4ca9aa",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!344",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-24T17:16:01.000-02:00"
+  },
+  {
+    "short_id": "2d070b3b",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T16:15:51.000-03:00"
+  },
+  {
+    "short_id": "cbe0fadf",
+    "title": "Fix familia acolhedora, remover valor de sexo 0",
+    "message": "Fix familia acolhedora, remover valor de sexo 0\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T16:09:40.000-03:00"
+  },
+  {
+    "short_id": "2edd1e13",
+    "title": "Remover arquivo de backup carregacadsuas no gestao estadual",
+    "message": "Remover arquivo de backup carregacadsuas no gestao estadual\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T16:09:13.000-03:00"
+  },
+  {
+    "short_id": "de94c36f",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nRemover valor 0 (zero) sexo do sexo do RH (fix Gestao estuadual)\n\nSee merge request dgi/censosuas!340",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-24T16:42:40.000-02:00"
+  },
+  {
+    "short_id": "2bd4a9ce",
+    "title": "Remover valor 0 (zero) sexo do sexo do RH (fix Gestao estuadual)",
+    "message": "Remover valor 0 (zero) sexo do sexo do RH (fix Gestao estuadual)\n\nO valor 0 utilizado para sexo ocasiona erros pois o javascript\nquando vai popular o dado com a informação ele considera 0 como vazio/false\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T15:42:25.000-03:00"
+  },
+  {
+    "short_id": "dd62fb8d",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!339",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-24T16:37:28.000-02:00"
+  },
+  {
+    "short_id": "edc26752",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T15:37:15.000-03:00"
+  },
+  {
+    "short_id": "2a74c984",
+    "title": "Remover valor 0 (zero) sexo do sexo do RH",
+    "message": "Remover valor 0 (zero) sexo do sexo do RH\n\nO valor 0 utilizado para sexo ocasiona erros pois o javascript\nquando vai popular o dado com a informação ele considera 0 como vazio/false\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T15:37:10.000-03:00"
+  },
+  {
+    "short_id": "ccdd8a9a",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAdicionar profissao contador gestao municipal\n\nSee merge request dgi/censosuas!331",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-24T14:49:02.000-02:00"
+  },
+  {
+    "short_id": "aa95998a",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T13:47:11.000-03:00"
+  },
+  {
+    "short_id": "825f185b",
+    "title": "Adicionar profissão de Contador na questao de profissoes de RH (GM)",
+    "message": "Adicionar profissão de Contador na questao de profissoes de RH (GM)\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-24T13:47:06.000-03:00"
+  },
+  {
+    "short_id": "a70b0274",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDebug CPF\n\nSee merge request dgi/censosuas!327",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-23T20:57:04.000-02:00"
+  },
+  {
+    "short_id": "2349e963",
+    "title": "Remover todos os debugs",
+    "message": "Remover todos os debugs\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-23T19:56:39.000-03:00"
+  },
+  {
+    "short_id": "2021737a",
+    "title": "Debug CPF",
+    "message": "Debug CPF\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-23T19:50:23.000-03:00"
+  },
+  {
+    "short_id": "abb19fde",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDebug CPF\n\nSee merge request dgi/censosuas!326",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-23T20:46:52.000-02:00"
+  },
+  {
+    "short_id": "4b6817cb",
+    "title": "Debug CPF",
+    "message": "Debug CPF\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-23T19:46:40.000-03:00"
+  },
+  {
+    "short_id": "a3c7250f",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDebug CPF\n\nSee merge request dgi/censosuas!325",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-23T20:38:46.000-02:00"
+  },
+  {
+    "short_id": "95eb1f32",
+    "title": "Debug CPF",
+    "message": "Debug CPF\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-23T19:38:27.000-03:00"
+  },
+  {
+    "short_id": "26ec9680",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDebug CPF\n\nSee merge request dgi/censosuas!324",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-23T20:37:35.000-02:00"
+  },
+  {
+    "short_id": "4b8aea36",
+    "title": "Debug CPF",
+    "message": "Debug CPF\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-23T19:36:23.000-03:00"
+  },
+  {
+    "short_id": "48282aa9",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nTeste nova versao da validacao de CPF utilizando .ini e parse_ini\n\nSee merge request dgi/censosuas!323",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-23T20:31:50.000-02:00"
+  },
+  {
+    "short_id": "e8c16ebc",
+    "title": "Teste nova versao da validacao de CPF utilizando .ini e parse_ini",
+    "message": "Teste nova versao da validacao de CPF utilizando .ini e parse_ini\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-23T19:30:29.000-03:00"
+  },
+  {
+    "short_id": "9ef54053",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAlterar identacao e inserir debug para CPF\n\nSee merge request dgi/censosuas!322",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-23T20:17:01.000-02:00"
+  },
+  {
+    "short_id": "40b7199f",
+    "title": "Alterar identacao e inserir debug para CPF",
+    "message": "Alterar identacao e inserir debug para CPF\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-23T19:15:33.000-03:00"
+  },
+  {
+    "short_id": "3a87a4d1",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\ntratar cpf para uso em produção\n\nSee merge request dgi/censosuas!321",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-23T17:46:27.000-02:00"
+  },
+  {
+    "short_id": "b9d330d2",
+    "title": "Alterar validacao de CPF para acesso do sistema de producao",
+    "message": "Alterar validacao de CPF para acesso do sistema de producao\n\nDevido ao usuário MARCO RODRIGO não estar conseguindo ser capaz de acessar\nos questionarios em produção, foi realizada a alteracao para garantir\nque os CPFs advindos do authsagi_cpf cookie, são tratados, e os caracteres\n'.' e '-' sao removidos, e apenas os digitos ficam na string que é\nutilizada na condição.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-23T16:45:27.000-03:00"
+  },
+  {
+    "short_id": "bcd83551",
+    "title": "Remover debug RH",
+    "message": "Remover debug RH\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-23T16:18:29.000-03:00"
+  },
+  {
+    "short_id": "b62659e0",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!320",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-23T16:22:07.000-02:00"
+  },
+  {
+    "short_id": "04d7f7ac",
+    "title": "Debug RH gestao municipal",
+    "message": "Debug RH gestao municipal\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-23T15:21:51.000-03:00"
+  },
+  {
+    "short_id": "f63b02ac",
+    "title": "Remove debug da classe cadSUAS",
+    "message": "Remove debug da classe cadSUAS\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-23T15:21:13.000-03:00"
+  },
+  {
+    "short_id": "4e04a78e",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDebug RH de gestao municipal em prod\n\nSee merge request dgi/censosuas!319",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-23T16:20:04.000-02:00"
+  },
+  {
+    "short_id": "9b25ba97",
+    "title": "Debug RH de gestao municipal em prod",
+    "message": "Debug RH de gestao municipal em prod\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-23T15:19:52.000-03:00"
+  },
+  {
+    "short_id": "ee0f8ff1",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!318",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-23T16:18:07.000-02:00"
+  },
+  {
+    "short_id": "54b3ed06",
+    "title": "Debug RH de gestao municipal em prod",
+    "message": "Debug RH de gestao municipal em prod\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-23T15:17:53.000-03:00"
+  },
+  {
+    "short_id": "15beba90",
+    "title": "Debug RH de gestao municipal em prod",
+    "message": "Debug RH de gestao municipal em prod\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-23T15:17:16.000-03:00"
+  },
+  {
+    "short_id": "5e4280c0",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!317",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-22T18:57:39.000-02:00"
+  },
+  {
+    "short_id": "ad0ca02c",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-22T17:01:46.000-03:00"
+  },
+  {
+    "short_id": "1e56c6fd",
+    "title": "Comentarios do problema da funcao de tpSexo",
+    "message": "Comentarios do problema da funcao de tpSexo\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-22T17:01:38.000-03:00"
+  },
+  {
+    "short_id": "22997d99",
+    "title": "Alterar valores de sexo 1 e 2. Se utilizar zero o sistema dá erro.",
+    "message": "Alterar valores de sexo 1 e 2. Se utilizar zero o sistema dá erro.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-22T17:00:31.000-03:00"
+  },
+  {
+    "short_id": "cffa31c1",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAdicionar logout caso usuario perca cookie no protecao_especial\n\nSee merge request dgi/censosuas!312",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-21T17:16:28.000-02:00"
+  },
+  {
+    "short_id": "0481e7cf",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-21T16:15:27.000-03:00"
+  },
+  {
+    "short_id": "a73440da",
+    "title": "Adicionar logica de logout caso problema no cookie protecao_especial",
+    "message": "Adicionar logica de logout caso problema no cookie protecao_especial\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-21T16:15:18.000-03:00"
+  },
+  {
+    "short_id": "fc484f9d",
+    "title": "Remover TODO realizado",
+    "message": "Remover TODO realizado\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-21T15:32:03.000-03:00"
+  },
+  {
+    "short_id": "d824b5df",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!309",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-18T18:06:50.000-03:00"
+  },
+  {
+    "short_id": "5d3966c5",
+    "title": "Adicionar profissional de educacao fisica nos demais questionarios",
+    "message": "Adicionar profissional de educacao fisica nos demais questionarios\n\nO valor 419 de cargo voltava em branco pois a profissao nao estava\ncadastrada no dicivip e consequentemente nao constava no questoes.ini\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-18T18:02:36.000-03:00"
+  },
+  {
+    "short_id": "994a238f",
+    "title": "Remover arquivo questoes.ini de 2016 (fundo municipal)",
+    "message": "Remover arquivo questoes.ini de 2016 (fundo municipal)\n\nDeletar arquivo legadod\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-18T18:00:34.000-03:00"
+  },
+  {
+    "short_id": "e2a31e70",
+    "title": "Adicionar profissao: profissional de ed. fisica (acolhimento_mun e conv)",
+    "message": "Adicionar profissao: profissional de ed. fisica (acolhimento_mun e conv)\n\nAdicionado profissional de ed. fisica na lista de profissoes do RH\ncomo valor valido\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-18T17:56:08.000-03:00"
+  },
+  {
+    "short_id": "7e1ad2c5",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAdicionar logica de sair caso usuario tenha perdido sessao\n\nSee merge request dgi/censosuas!308",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-18T17:26:54.000-03:00"
+  },
+  {
+    "short_id": "0055d871",
+    "title": "Adicionar codigo para deslogar usuario caso sessao esteja perdida.",
+    "message": "Adicionar codigo para deslogar usuario caso sessao esteja perdida.\n\nA fim de evitar os diversos casos nos quais o usuário não consegue\nsalvar pois seu cookie com e-mail está nulo, foi adicionada uma nova\nregra que avisa o usuário do problema durante o salvamento da persistencia.\nO usuario então é levado para a URL com o script de SAIR, o qual limpa\ntodos os cookies e variáveis de sessão, e o redireciona para pagina inicial\ndo CENSO para que ele faça o login novamente.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-18T17:26:13.000-03:00"
+  },
+  {
+    "short_id": "cdf33a00",
+    "title": "Ajustar identação do arquivo de persistencia",
+    "message": "Ajustar identação do arquivo de persistencia\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-18T17:15:10.000-03:00"
+  },
+  {
+    "short_id": "9936ac83",
+    "title": "Alterar funcao de reload apos alteracoes CadSUAS gestao_municipal",
+    "message": "Alterar funcao de reload apos alteracoes CadSUAS gestao_municipal\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-18T15:34:53.000-03:00"
+  },
+  {
+    "short_id": "d80f5ec6",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!307",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-18T15:27:48.000-03:00"
+  },
+  {
+    "short_id": "a7837f2b",
+    "title": "Corrigir funcao q converte valores sexo do RH (familia_acolhedora)",
+    "message": "Corrigir funcao q converte valores sexo do RH (familia_acolhedora)\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-18T15:11:44.000-03:00"
+  },
+  {
+    "short_id": "eb8feb51",
+    "title": "Corrigir funcao q converte valores sexo do RH (gestao municipal)",
+    "message": "Corrigir funcao q converte valores sexo do RH (gestao municipal)\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-18T15:06:20.000-03:00"
+  },
+  {
+    "short_id": "73243cb8",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-18T14:56:06.000-03:00"
+  },
+  {
+    "short_id": "2a82e77a",
+    "title": "Corrigir funcao q converte valores correspondentes ao sexo do RH",
+    "message": "Corrigir funcao q converte valores correspondentes ao sexo do RH\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-18T14:55:57.000-03:00"
+  },
+  {
+    "short_id": "a4d8ee99",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!304",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-16T18:54:52.000-03:00"
+  },
+  {
+    "short_id": "7045925b",
+    "title": "Adicionar nova condicao para evitar selects no banco desncessarios",
+    "message": "Adicionar nova condicao para evitar selects no banco desncessarios\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-16T18:54:18.000-03:00"
+  },
+  {
+    "short_id": "8fbd528f",
+    "title": "Remover debug e adicionar espacamento na condicao",
+    "message": "Remover debug e adicionar espacamento na condicao\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-16T18:51:32.000-03:00"
+  },
+  {
+    "short_id": "09905f47",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAlterar condicao GE\n\nSee merge request dgi/censosuas!303",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-16T18:50:43.000-03:00"
+  },
+  {
+    "short_id": "353b7fb8",
+    "title": "Alterar condicao GE",
+    "message": "Alterar condicao GE\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-16T18:50:26.000-03:00"
+  },
+  {
+    "short_id": "eaf8aac6",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!302",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-16T18:49:21.000-03:00"
+  },
+  {
+    "short_id": "46c11917",
+    "title": "Alterar regra de CPF CREAS para casos de gestor estadual (cookie GE)",
+    "message": "Alterar regra de CPF CREAS para casos de gestor estadual (cookie GE)\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-16T18:48:33.000-03:00"
+  },
+  {
+    "short_id": "f1f8cf7e",
+    "title": "Remover debug prod",
+    "message": "Remover debug prod\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-16T17:10:53.000-03:00"
+  },
+  {
+    "short_id": "bdec9d28",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDebug prod\n\nSee merge request dgi/censosuas!301",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-16T17:09:27.000-03:00"
+  },
+  {
+    "short_id": "32e25b4d",
+    "title": "Debug prod",
+    "message": "Debug prod\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-16T17:08:00.000-03:00"
+  },
+  {
+    "short_id": "33c596a0",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDebug prod\n\nSee merge request dgi/censosuas!299",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-16T17:06:23.000-03:00"
+  },
+  {
+    "short_id": "345be372",
+    "title": "Debug prod",
+    "message": "Debug prod\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-16T17:05:41.000-03:00"
+  },
+  {
+    "short_id": "e3323ca1",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!298",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-16T17:04:11.000-03:00"
+  },
+  {
+    "short_id": "66f87d8b",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-16T17:03:59.000-03:00"
+  },
+  {
+    "short_id": "e05fdfb4",
+    "title": "Alterar para habilitar gestores estaduais de visualizarem creas regional",
+    "message": "Alterar para habilitar gestores estaduais de visualizarem creas regional\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-16T17:03:46.000-03:00"
+  },
+  {
+    "short_id": "bcea6d16",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!297",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-16T16:37:42.000-03:00"
+  },
+  {
+    "short_id": "bdaa8b80",
+    "title": "Merge branch 'dev-mauro' into 'dev'",
+    "message": "Merge branch 'dev-mauro' into 'dev'\n\nRemoção da observação v10954 e v11976\n\nSee merge request dgi/censosuas!296",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-16T16:37:23.000-03:00"
+  },
+  {
+    "short_id": "102a1663",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!295",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-16T15:39:58.000-03:00"
+  },
+  {
+    "short_id": "7eddf1ef",
+    "title": "Merge branch 'dev-mauro' into 'dev'",
+    "message": "Merge branch 'dev-mauro' into 'dev'\n\nDev mauro\n\nSee merge request dgi/censosuas!294",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-16T15:39:49.000-03:00"
+  },
+  {
+    "short_id": "ec8d6709",
+    "title": "Adicionar codigo de erro nas msgs para facilitar debugging",
+    "message": "Adicionar codigo de erro nas msgs para facilitar debugging\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-16T14:58:01.000-03:00"
+  },
+  {
+    "short_id": "be67b09e",
+    "title": "Adicionar TODO e remover TODO",
+    "message": "Adicionar TODO e remover TODO\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-16T14:03:29.000-03:00"
+  },
+  {
+    "short_id": "0e3bb366",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!292",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-15T16:54:39.000-03:00"
+  },
+  {
+    "short_id": "01d1bf8f",
+    "title": "Remover codigo comentado",
+    "message": "Remover codigo comentado\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-15T16:51:52.000-03:00"
+  },
+  {
+    "short_id": "92e993c4",
+    "title": "Abrir questionarios CONSELHO, GESTAO e FUNDO (estadual e municipal)",
+    "message": "Abrir questionarios CONSELHO, GESTAO e FUNDO (estadual e municipal)\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-15T16:51:41.000-03:00"
+  },
+  {
+    "short_id": "c1f69948",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAlterar valor de OUTROS do questionario de fundo_estadual\n\nSee merge request dgi/censosuas!291",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-15T16:25:23.000-03:00"
+  },
+  {
+    "short_id": "0f0635df",
+    "title": "Alterar valor de OUTROS do questionario de fundo_estadual",
+    "message": "Alterar valor de OUTROS do questionario de fundo_estadual\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-15T16:22:47.000-03:00"
+  },
+  {
+    "short_id": "bd91a3ef",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!290",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-15T14:07:42.000-03:00"
+  },
+  {
+    "short_id": "e7e9cb5c",
+    "title": "Remover codigo comentado deletar comentarios repetidos alterar identacao",
+    "message": "Remover codigo comentado deletar comentarios repetidos alterar identacao\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T18:57:11.000-03:00"
+  },
+  {
+    "short_id": "b46074f7",
+    "title": "Alterar recarregamento apos alteracoes do RH para forçar refresh",
+    "message": "Alterar recarregamento apos alteracoes do RH para forçar refresh\n\nRealizar alteracao tambem para o questionario de gestao_estadual\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T18:50:53.000-03:00"
+  },
+  {
+    "short_id": "ffe87d92",
+    "title": "Alterar recarregamento apos alteracoes do RH para forçar refresh",
+    "message": "Alterar recarregamento apos alteracoes do RH para forçar refresh\n\nFoi alterada a funcao de recarregaArea para forçar o refresh da pagina\napos o usuario realizar alteracoes no RH e clicar em CONFIRMAR no iframe\ndo cadsuas.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T18:34:29.000-03:00"
+  },
+  {
+    "short_id": "ead89d37",
+    "title": "Ajustar identacao",
+    "message": "Ajustar identacao\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T11:50:00.000-03:00"
+  },
+  {
+    "short_id": "c4950b71",
+    "title": "Remover codigo comentado abandonado",
+    "message": "Remover codigo comentado abandonado\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T11:49:29.000-03:00"
+  },
+  {
+    "short_id": "59664825",
+    "title": "Remover codigo comentado abandonado",
+    "message": "Remover codigo comentado abandonado\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T11:49:12.000-03:00"
+  },
+  {
+    "short_id": "26210125",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!289",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-14T11:30:25.000-03:00"
+  },
+  {
+    "short_id": "c856b760",
+    "title": "Ajustar identacao arquivo JS pois a IDE apontava erros de sintaxe",
+    "message": "Ajustar identacao arquivo JS pois a IDE apontava erros de sintaxe\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T11:25:57.000-03:00"
+  },
+  {
+    "short_id": "60575bab",
+    "title": "Fix numero da pagina e numero questao co_seq_dirigente CREAS",
+    "message": "Fix numero da pagina e numero questao co_seq_dirigente CREAS\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T01:00:59.000-03:00"
+  },
+  {
+    "short_id": "f0dd9e6a",
+    "title": "Consertar numeracao da questao co_seq CRAS",
+    "message": "Consertar numeracao da questao co_seq CRAS\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T00:59:33.000-03:00"
+  },
+  {
+    "short_id": "0bf39c69",
+    "title": "Adicionar co_seq_dirigente no questionario de convivencia",
+    "message": "Adicionar co_seq_dirigente no questionario de convivencia\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T00:56:15.000-03:00"
+  },
+  {
+    "short_id": "b36ef2ac",
+    "title": "Remover debugs",
+    "message": "Remover debugs\n\nRemovendo linhas de dumps. Foi constatado que o sistema estava utilizando\no servico de producao até mesmo em situacao de acesso pelo ambiente de dev.\nFoi devidamente alterado, puxara agora do respectivo servico correto.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T00:50:40.000-03:00"
+  },
+  {
+    "short_id": "bbfbb094",
+    "title": "[Test] Alterar servico de RH para endereco de homologacao",
+    "message": "[Test] Alterar servico de RH para endereco de homologacao\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T00:48:22.000-03:00"
+  },
+  {
+    "short_id": "9afbc1a4",
+    "title": "[Test] Alterar servico de RH para endereco de homologacao",
+    "message": "[Test] Alterar servico de RH para endereco de homologacao\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T00:46:36.000-03:00"
+  },
+  {
+    "short_id": "a8d32b3f",
+    "title": "[Debug] Test sagi.mds.net (var_dump)",
+    "message": "[Debug] Test sagi.mds.net (var_dump)\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T00:43:27.000-03:00"
+  },
+  {
+    "short_id": "af71ae88",
+    "title": "[Debug] Test sagi.mds.net (var_dump)",
+    "message": "[Debug] Test sagi.mds.net (var_dump)\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T00:41:00.000-03:00"
+  },
+  {
+    "short_id": "fa18341d",
+    "title": "[Debug] Test sagi.mds.net (var_dump)",
+    "message": "[Debug] Test sagi.mds.net (var_dump)\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T00:40:32.000-03:00"
+  },
+  {
+    "short_id": "f433cb5b",
+    "title": "Adicionar co_seq acolhimento_municipal",
+    "message": "Adicionar co_seq acolhimento_municipal\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T00:36:33.000-03:00"
+  },
+  {
+    "short_id": "961c0c13",
+    "title": "Adicionar co_seq acolhimento_municipal",
+    "message": "Adicionar co_seq acolhimento_municipal\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T00:32:39.000-03:00"
+  },
+  {
+    "short_id": "f29860da",
+    "title": "Excluir inis antigos conselho_municipal",
+    "message": "Excluir inis antigos conselho_municipal\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T00:32:16.000-03:00"
+  },
+  {
+    "short_id": "ed7c7894",
+    "title": "Alterar co_seq para pagina/aba correta",
+    "message": "Alterar co_seq para pagina/aba correta\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T00:07:24.000-03:00"
+  },
+  {
+    "short_id": "d8a49da6",
+    "title": "Remover codigo comentado e adicionar comentario explicativo",
+    "message": "Remover codigo comentado e adicionar comentario explicativo\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T00:07:05.000-03:00"
+  },
+  {
+    "short_id": "b4bba6bf",
+    "title": "Alterar identacao bloco 6",
+    "message": "Alterar identacao bloco 6\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T00:06:35.000-03:00"
+  },
+  {
+    "short_id": "e9babd2b",
+    "title": "Alterar identacao",
+    "message": "Alterar identacao\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-14T00:06:23.000-03:00"
+  },
+  {
+    "short_id": "79eb968c",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!288",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-11T18:11:14.000-03:00"
+  },
+  {
+    "short_id": "47cff60c",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-11T18:10:04.000-03:00"
+  },
+  {
+    "short_id": "92007b3d",
+    "title": "Adicionar co_seq_dirigente protecao_especial",
+    "message": "Adicionar co_seq_dirigente protecao_especial\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-11T17:54:59.000-03:00"
+  },
+  {
+    "short_id": "d8d8c529",
+    "title": "Remover comentarios titulo_dicivip",
+    "message": "Remover comentarios titulo_dicivip\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-11T17:54:27.000-03:00"
+  },
+  {
+    "short_id": "0ab0ecb6",
+    "title": "Adicionar co_seq_dirigente no acolhimento estadual",
+    "message": "Adicionar co_seq_dirigente no acolhimento estadual\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-11T17:54:10.000-03:00"
+  },
+  {
+    "short_id": "c31540c7",
+    "title": "Merge branch 'dev-daniel' into 'dev'",
+    "message": "Merge branch 'dev-daniel' into 'dev'\n\nDev daniel\n\nSee merge request dgi/censosuas!286",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-11T17:30:40.000-03:00"
+  },
+  {
+    "short_id": "4268e4c7",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-11T16:00:29.000-03:00"
+  },
+  {
+    "short_id": "82c1dd89",
+    "title": "Alterar funcao de reload do creas_pop apos alteracoes no cadsuas",
+    "message": "Alterar funcao de reload do creas_pop apos alteracoes no cadsuas\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-11T16:00:23.000-03:00"
+  },
+  {
+    "short_id": "01f3010e",
+    "title": "Remover var_dump",
+    "message": "Remover var_dump\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-11T15:55:27.000-03:00"
+  },
+  {
+    "short_id": "74ab4f3e",
+    "title": "Remover arquivo old",
+    "message": "Remover arquivo old\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-11T15:54:55.000-03:00"
+  },
+  {
+    "short_id": "b6c2c320",
+    "title": "Merge branch 'dev' into 'dev-daniel'",
+    "message": "Merge branch 'dev' into 'dev-daniel'\n\nDev\n\nSee merge request dgi/censosuas!283",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-11T15:41:31.000-03:00"
+  },
+  {
+    "short_id": "935313f0",
+    "title": "Merge branch 'dev' into 'dev-mauro'",
+    "message": "Merge branch 'dev' into 'dev-mauro'\n\nDev\n\nSee merge request dgi/censosuas!282",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-11T15:23:11.000-03:00"
+  },
+  {
+    "short_id": "8acd804a",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!281",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-11T11:33:11.000-03:00"
+  },
+  {
+    "short_id": "0f784951",
+    "title": "[TEST] Testar remocao de GM do cookie",
+    "message": "[TEST] Testar remocao de GM do cookie\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-11T11:33:00.000-03:00"
+  },
+  {
+    "short_id": "c9eb353f",
+    "title": "[TEST] Test validar variavel permitido",
+    "message": "[TEST] Test validar variavel permitido\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-11T11:29:43.000-03:00"
+  },
+  {
+    "short_id": "39fdfd19",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-11T11:26:58.000-03:00"
+  },
+  {
+    "short_id": "04afb0b0",
+    "title": "[TEST] Remover validacao de cookie de GM para o acolhimento",
+    "message": "[TEST] Remover validacao de cookie de GM para o acolhimento\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-11T11:25:09.000-03:00"
+  },
+  {
+    "short_id": "6b7e6895",
+    "title": "Fixes na funcao de remover apostrofo",
+    "message": "Fixes na funcao de remover apostrofo\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-10T19:52:56.000-03:00"
+  },
+  {
+    "short_id": "e27595f9",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!279",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-10T18:58:12.000-03:00"
+  },
+  {
+    "short_id": "7a492bd4",
+    "title": "Test mpdf",
+    "message": "Test mpdf\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-10T18:54:13.000-03:00"
+  },
+  {
+    "short_id": "9a75bfff",
+    "title": "Adicionar funcao JS remover apostrofo cookie cidade",
+    "message": "Adicionar funcao JS remover apostrofo cookie cidade\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-10T18:42:53.000-03:00"
+  },
+  {
+    "short_id": "037ff1cb",
+    "title": "Alterar identacao",
+    "message": "Alterar identacao\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-10T17:35:26.000-03:00"
+  },
+  {
+    "short_id": "e1ed4a8d",
+    "title": "Adicionar mais 2 CPFs requisitados para permissao em producao",
+    "message": "Adicionar mais 2 CPFs requisitados para permissao em producao\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-10T16:26:50.000-03:00"
+  },
+  {
+    "short_id": "9007e75c",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-10T16:24:58.000-03:00"
+  },
+  {
+    "short_id": "38f41520",
+    "title": "Adicionar CPFs adicionais para visualizar questionarios em producao",
+    "message": "Adicionar CPFs adicionais para visualizar questionarios em producao\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-10T16:24:39.000-03:00"
+  },
+  {
+    "short_id": "693d6916",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!274",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-10T15:12:07.000-03:00"
+  },
+  {
+    "short_id": "bae6bc86",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-10T15:11:45.000-03:00"
+  },
+  {
+    "short_id": "bf08ea6b",
+    "title": "FixUp! Acertar os emails responsaveis, remover email lovatel",
+    "message": "FixUp! Acertar os emails responsaveis, remover email lovatel\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-10T15:11:38.000-03:00"
+  },
+  {
+    "short_id": "3b2be834",
+    "title": "Merge branch 'dev' into 'dev-gadelha'",
+    "message": "Merge branch 'dev' into 'dev-gadelha'\n\nDev\n\nSee merge request dgi/censosuas!273",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-10T15:09:31.000-03:00"
+  },
+  {
+    "short_id": "89647ec0",
+    "title": "Merge branch 'dev-gadelha' into 'dev'",
+    "message": "Merge branch 'dev-gadelha' into 'dev'\n\n# Conflicts:\n#   questionario/config.ini",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-10T15:09:16.000-03:00"
+  },
+  {
+    "short_id": "29b4368d",
+    "title": "Reverter alteracoes fundo estadual",
+    "message": "Reverter alteracoes fundo estadual\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-10T15:07:51.000-03:00"
+  },
+  {
+    "short_id": "fc0dc4df",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nRemover email Davi do config.ini e alterar os demais para @cidadania\n\nSee merge request dgi/censosuas!272",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-09T19:30:35.000-03:00"
+  },
+  {
+    "short_id": "12ef90a8",
+    "title": "Remover email Davi do config.ini e alterar os demais para @cidadania",
+    "message": "Remover email Davi do config.ini e alterar os demais para @cidadania\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T19:30:09.000-03:00"
+  },
+  {
+    "short_id": "0ad488d5",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAlterar localizacao funcao de cookie\n\nSee merge request dgi/censosuas!271",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-09T18:34:26.000-03:00"
+  },
+  {
+    "short_id": "5777ef29",
+    "title": "Alterar localizacao funcao de cookie",
+    "message": "Alterar localizacao funcao de cookie\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T18:33:47.000-03:00"
+  },
+  {
+    "short_id": "1a473a6e",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDebug\n\nSee merge request dgi/censosuas!270",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-09T18:26:18.000-03:00"
+  },
+  {
+    "short_id": "763281cd",
+    "title": "Debug",
+    "message": "Debug\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T18:25:59.000-03:00"
+  },
+  {
+    "short_id": "5b56fab5",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAdicionar funcao para remover apostrofo do cookie authsagi_cidade\n\nSee merge request dgi/censosuas!269",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-09T18:24:04.000-03:00"
+  },
+  {
+    "short_id": "3acef1f7",
+    "title": "Adicionar funcao para remover apostrofo do cookie authsagi_cidade",
+    "message": "Adicionar funcao para remover apostrofo do cookie authsagi_cidade\n\nApostrofo em cidades que possuem o caractere no nome acarretam problemas\n(ex. Guarani d'Oeste - SP) durante execucao da funcao que salva as\ncoordenadas no geosagi. Foidesenvolvida uma funcao para resolver essa\nproblematica removendoo apostrofo caso o cadsuas crie o cookie e nele\nexista o caractere.\n\nFoi adicionado ainda mais um diretorio no qual o arquivo test.php é\nignorado para nao ser adicionado para o repositorio erroneamente.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T18:23:20.000-03:00"
+  },
+  {
+    "short_id": "b912670b",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAdicionar h1 na div content para remover erro de javascript do titulo\n\nSee merge request dgi/censosuas!268",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-09T16:29:28.000-03:00"
+  },
+  {
+    "short_id": "efb54a85",
+    "title": "Adicionar h1 na div content para remover erro de javascript do titulo",
+    "message": "Adicionar h1 na div content para remover erro de javascript do titulo\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T16:29:04.000-03:00"
+  },
+  {
+    "short_id": "3e4abcf0",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nRemover debug aparecendo em producao\n\nSee merge request dgi/censosuas!267",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-09T16:07:08.000-03:00"
+  },
+  {
+    "short_id": "ed53f5de",
+    "title": "Remover codigos comentados de debug do cras",
+    "message": "Remover codigos comentados de debug do cras\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T16:05:38.000-03:00"
+  },
+  {
+    "short_id": "75dfaf83",
+    "title": "Remover comentarios de uso de proxy (legado)",
+    "message": "Remover comentarios de uso de proxy (legado)\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T16:01:10.000-03:00"
+  },
+  {
+    "short_id": "59bdfccc",
+    "title": "Remover codigo comentado nas chaves do dicivip",
+    "message": "Remover codigo comentado nas chaves do dicivip\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T16:00:53.000-03:00"
+  },
+  {
+    "short_id": "6f338e24",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T16:00:20.000-03:00"
+  },
+  {
+    "short_id": "a7671580",
+    "title": "Remover comentarios de debug de timer",
+    "message": "Remover comentarios de debug de timer\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T16:00:10.000-03:00"
+  },
+  {
+    "short_id": "aaf5ed09",
+    "title": "Remover var_dumps que estavam printando em producao",
+    "message": "Remover var_dumps que estavam printando em producao\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T15:59:25.000-03:00"
+  },
+  {
+    "short_id": "c1a5be62",
+    "title": "Comentar funcionalidade listar RH para futuras correcoes",
+    "message": "Comentar funcionalidade listar RH para futuras correcoes\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T15:58:53.000-03:00"
+  },
+  {
+    "short_id": "58a0a221",
+    "title": "Remover codigo comentado",
+    "message": "Remover codigo comentado\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T15:58:01.000-03:00"
+  },
+  {
+    "short_id": "002ed176",
+    "title": "Merge branch 'dev' into 'dev-daniel'",
+    "message": "Merge branch 'dev' into 'dev-daniel'\n\nDev\n\nSee merge request dgi/censosuas!266",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-09T14:53:48.000-03:00"
+  },
+  {
+    "short_id": "049aec3f",
+    "title": "Merge branch 'dev' into 'dev-mauro'",
+    "message": "Merge branch 'dev' into 'dev-mauro'\n\nDev\n\nSee merge request dgi/censosuas!265",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-09T14:53:05.000-03:00"
+  },
+  {
+    "short_id": "a18d6f8e",
+    "title": "Merge branch 'dev' into 'dev-gadelha'",
+    "message": "Merge branch 'dev' into 'dev-gadelha'\n\nDev\n\nSee merge request dgi/censosuas!263",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-09T14:52:17.000-03:00"
+  },
+  {
+    "short_id": "fe30418b",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAtualizar versão consertada apos merge com problema\n\nSee merge request dgi/censosuas!261",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-09T14:49:10.000-03:00"
+  },
+  {
+    "short_id": "79afcd07",
+    "title": "Merge branch 'master' into 'dev'",
+    "message": "Merge branch 'master' into 'dev'\n\n# Conflicts:\n#   index.php",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-09T14:48:59.000-03:00"
+  },
+  {
+    "short_id": "fe891a98",
+    "title": "Remover BOM",
+    "message": "Remover BOM\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T14:46:29.000-03:00"
+  },
+  {
+    "short_id": "c1e0d092",
+    "title": "Alteracoes questoes.ini creas_pop",
+    "message": "Alteracoes questoes.ini creas_pop\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T14:35:40.000-03:00"
+  },
+  {
+    "short_id": "37254b12",
+    "title": "Consertar identacao para manter versoes identicas do acolhimento",
+    "message": "Consertar identacao para manter versoes identicas do acolhimento\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T14:06:19.000-03:00"
+  },
+  {
+    "short_id": "9c1f7517",
+    "title": "Colocar questionarios acolhimento (mu e est) e fam acolhedora abertos",
+    "message": "Colocar questionarios acolhimento (mu e est) e fam acolhedora abertos\n\nDesfazer problematica gerada devido ao revert com bugs. Reatribuir\nvalor de true para as variaveis referentes aos questionarios mencionados\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T14:03:22.000-03:00"
+  },
+  {
+    "short_id": "55902198",
+    "title": "Remover lixo gerado pelos conflitos do git durante merges problematicos",
+    "message": "Remover lixo gerado pelos conflitos do git durante merges problematicos\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T14:02:04.000-03:00"
+  },
+  {
+    "short_id": "bdb887d2",
+    "title": "Adicionar versao do fundo_estadual",
+    "message": "Adicionar versao do fundo_estadual\n\nAdicionar alteracoes referentes aos blocos html e questoes.ini do fundo\nestadual\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T14:01:33.000-03:00"
+  },
+  {
+    "short_id": "2b38ca93",
+    "title": "Reverter branch dev para versao mais atual sem erros (Local history)",
+    "message": "Reverter branch dev para versao mais atual sem erros (Local history)\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-09T13:51:18.000-03:00"
+  },
+  {
+    "short_id": "7b2ca933",
+    "title": "Update index.php",
+    "message": "Update index.php",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-09T11:46:58.000-03:00"
+  },
+  {
+    "short_id": "c2ab0020",
+    "title": "Merge branch 'dev' of https://10.68.13.200:8888/dgi/censosuas into dev",
+    "message": "Merge branch 'dev' of https://10.68.13.200:8888/dgi/censosuas into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-08T17:39:41.000-03:00"
+  },
+  {
+    "short_id": "46f096f1",
+    "title": "Merge branch 'master' into 'dev'",
+    "message": "Merge branch 'master' into 'dev'\n\n# Conflicts:\n#   index.php",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-10-08T17:39:16.000-03:00"
+  },
+  {
+    "short_id": "569e0816",
+    "title": "Merge branches 'dev' and 'master' of https://10.68.13.200:8888/dgi/censosuas into dev",
+    "message": "Merge branches 'dev' and 'master' of https://10.68.13.200:8888/dgi/censosuas into dev\n\n\u0001 Conflicts:\n\u0001\tindex.php\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-08T17:37:49.000-03:00"
+  },
+  {
+    "short_id": "f1142d91",
+    "title": "Adicionar co_seq_dirigente e consertar valores sexo RH para 1,2",
+    "message": "Adicionar co_seq_dirigente e consertar valores sexo RH para 1,2\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-08T17:35:29.000-03:00"
+  },
+  {
+    "short_id": "a712b450",
+    "title": "Remover arquivo swap erroneamente commitado por outro desenvolvedor",
+    "message": "Remover arquivo swap erroneamente commitado por outro desenvolvedor\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-08T17:24:41.000-03:00"
+  },
+  {
+    "short_id": "038e3a73",
+    "title": "Adicionar test no gitignore",
+    "message": "Adicionar test no gitignore\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-08T17:09:27.000-03:00"
+  },
+  {
+    "short_id": "992479b1",
+    "title": "Merge branches 'dev' and 'dev-gadelha' of https://10.68.13.200:8888/dgi/censosuas into dev",
+    "message": "Merge branches 'dev' and 'dev-gadelha' of https://10.68.13.200:8888/dgi/censosuas into dev\n\n\u0001 Conflicts:\n\u0001\tferramentas/pdf/busca_dados.php\n\u0001\tferramentas/pdf/functions.js\n\u0001\tferramentas/pdf/functions.php\n\u0001\tferramentas/pdf/gerador_pdf.php\n\u0001\tquestionario/acolhimento_municipal/lista.php\n\u0001\tquestionario/conselho_estadual/carregacadsuas.php\n\u0001\tquestionario/protecao_especial/carregacadsuas.php\n\u0001\tquestionario/protecao_especial/mudatitulo.php\n\u0001\tvalor_entidade_cadsuas.txt\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-08T17:08:10.000-03:00"
+  },
+  {
+    "short_id": "dbfebfc9",
+    "title": "Adicionar numeracao para codigos de erro para melhorar manutencao",
+    "message": "Adicionar numeracao para codigos de erro para melhorar manutencao\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-08T16:55:40.000-03:00"
+  },
+  {
+    "short_id": "908f4476",
+    "title": "Remover codigos comentados e alterar url cadsuas",
+    "message": "Remover codigos comentados e alterar url cadsuas\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-08T16:55:22.000-03:00"
+  },
+  {
+    "short_id": "82ba26f4",
+    "title": "Remover codigos comentados conselho_estadual legados",
+    "message": "Remover codigos comentados conselho_estadual legados\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-08T16:54:22.000-03:00"
+  },
+  {
+    "short_id": "feb6a6c5",
+    "title": "Adicionar mais valores para o txt valor_entidade_cadsuas",
+    "message": "Adicionar mais valores para o txt valor_entidade_cadsuas\n\nRemover mais comentarios contido no codigo com valores vindos do cadsuas e adicionar estes no txt para referencia futura\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-08T16:53:43.000-03:00"
+  },
+  {
+    "short_id": "9b7383a3",
+    "title": "Remover erros mudatitulo do acolhimento_municipal",
+    "message": "Remover erros mudatitulo do acolhimento_municipal\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-08T16:52:48.000-03:00"
+  },
+  {
+    "short_id": "1628ebb4",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-08T16:51:11.000-03:00"
+  },
+  {
+    "short_id": "638318ad",
+    "title": "Alterar url servico centro dia e alterar recarregamento apos uso do cad",
+    "message": "Alterar url servico centro dia e alterar recarregamento apos uso do cad\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-08T16:51:00.000-03:00"
+  },
+  {
+    "short_id": "c7b9337f",
+    "title": "ABRIR QUESTIONARIOS -- Acolhimento Municipal, Acolhimento Estadual e Família Acolhedora em PRODUCAO",
+    "message": "ABRIR QUESTIONARIOS -- Acolhimento Municipal, Acolhimento Estadual e Família Acolhedora em PRODUCAO",
+    "author_name": "Hector Rocha Margittay",
+    "committer_name": "Hector Rocha Margittay",
+    "committer_email": "hector.margittay@estagiario.cidadania.gov.br",
+    "committed_date": "2019-10-07T10:40:46.000-03:00"
+  },
+  {
+    "short_id": "d80a2efc",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!238",
+    "author_name": "Hector Rocha Margittay",
+    "committer_name": "Hector Rocha Margittay",
+    "committer_email": "hector.margittay@estagiario.cidadania.gov.br",
+    "committed_date": "2019-10-07T10:38:24.000-03:00"
+  },
+  {
+    "short_id": "1fc0f120",
+    "title": "Adicionar case de Acolhimento ESTADUAL na ferramenta de PDF",
+    "message": "Adicionar case de Acolhimento ESTADUAL na ferramenta de PDF\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-04T20:42:18.000-03:00"
+  },
+  {
+    "short_id": "d6c2ee43",
+    "title": "Remove TODO",
+    "message": "Remove TODO\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-04T20:15:28.000-03:00"
+  },
+  {
+    "short_id": "1fd328d9",
+    "title": "Remover codigo legado comentado gestao_municipal",
+    "message": "Remover codigo legado comentado gestao_municipal\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-04T20:15:03.000-03:00"
+  },
+  {
+    "short_id": "b7252bce",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-04T19:45:11.000-03:00"
+  },
+  {
+    "short_id": "ea269517",
+    "title": "Remover select_to_load warning",
+    "message": "Remover select_to_load warning\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-04T19:45:03.000-03:00"
+  },
+  {
+    "short_id": "b69b2d9d",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-01T11:31:25.000-03:00"
+  },
+  {
+    "short_id": "8f889c9f",
+    "title": "Adicionar regra de checagem de CPF para acolhimento municipal",
+    "message": "Adicionar regra de checagem de CPF para acolhimento municipal\n\nAssim como de familia acolhedora no commit anterior, foi realizada\na regra para os casos de acolhimento municipal\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-01T11:31:19.000-03:00"
+  },
+  {
+    "short_id": "d823e77a",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-01T10:56:35.000-03:00"
+  },
+  {
+    "short_id": "b2df31e4",
+    "title": "Adicionar regra de checagem de CPF para Familia acolhedora",
+    "message": "Adicionar regra de checagem de CPF para Familia acolhedora\n\nFoi adicionada a logica da regra de familia acolhedora como solicitada,\no sistema agora checa se o usuário está cadastrado em uma familia acolhedora\ne apenas assim o mesmo consegue visualizar a unidade no arquivo lista.php.\nCaso possua permissão MDS ele pode ver todas as unidades,\ne esteja cadastrado no RH de gestao municipal, ele consegue visualizar\ntodas as unidades registradas naquele municipio.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-10-01T10:56:16.000-03:00"
+  },
+  {
+    "short_id": "f03f7e2d",
+    "title": "Adicionar logica brasilia e busca de demais entidades",
+    "message": "Adicionar logica brasilia e busca de demais entidades\n\nAdicionar logica do ibge para brasilia em cras e acolhimento_municipal (diferente em cada caso).\nAdicionar validacoes de ibge.\nAlterar retorno do case de acolhimento para table.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-30T19:17:47.000-03:00"
+  },
+  {
+    "short_id": "545a19d8",
+    "title": "Alterar statement de if para switch na ferramenta PDF",
+    "message": "Alterar statement de if para switch na ferramenta PDF\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-30T17:40:37.000-03:00"
+  },
+  {
+    "short_id": "30b7a405",
+    "title": "Adicionar variavel de modalidade para filtrar familia_acolhedora",
+    "message": "Adicionar variavel de modalidade para filtrar familia_acolhedora\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-30T17:11:40.000-03:00"
+  },
+  {
+    "short_id": "d227cf7d",
+    "title": "Adicionar TODO para montar table",
+    "message": "Adicionar TODO para montar table\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-30T17:09:29.000-03:00"
+  },
+  {
+    "short_id": "2acfffbe",
+    "title": "Ferramenta PDF - Adicionar coluna do municipio",
+    "message": "Ferramenta PDF - Adicionar coluna do municipio\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-30T16:43:16.000-03:00"
+  },
+  {
+    "short_id": "b16aed2b",
+    "title": "Adicionar alteracoes necessarias no bdlink para buscar 2018",
+    "message": "Adicionar alteracoes necessarias no bdlink para buscar 2018\n\nAdicionar / no path do bdlink.\nAdicionar '_2018' no bdlink no arquivo cras\nAlterar identacao\nAdicionar msg de desenvolvimento\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-30T16:16:48.000-03:00"
+  },
+  {
+    "short_id": "8596e4c0",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAtualizar creas nova alteracao\n\nSee merge request dgi/censosuas!225",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-30T15:50:41.000-03:00"
+  },
+  {
+    "short_id": "77de2964",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-30T15:46:57.000-03:00"
+  },
+  {
+    "short_id": "5534d9ce",
+    "title": "Alterar gerapdf para logica 2018 e adicionar arquivos 2018",
+    "message": "Alterar gerapdf para logica 2018 e adicionar arquivos 2018\n\nAdicionar logica para uso do ano de referencia de 2018 para ferramenta de PDF\n\nAdicionar arquivos de todos os questionarios referentes a 2018, necessarias para gerar pdf do ano anterior\n\nRemover codigo comentado familia_acolhedora\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-30T15:46:43.000-03:00"
+  },
+  {
+    "short_id": "3fee4261",
+    "title": "Melhorar comentario da funcao de DB",
+    "message": "Melhorar comentario da funcao de DB\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-30T14:55:24.000-03:00"
+  },
+  {
+    "short_id": "be7b6cc0",
+    "title": "Finalizar logica para o caso de CRAS",
+    "message": "Finalizar logica para o caso de CRAS\n\nAdicionar logica final para o caso de CRAS\nAdicionar funcao do ajax para apertar botao buscar\nAdicionar where para caso de busca em todo estado\nAdicionar CSS da tabela\nAdicionar CSS do botão\nAdicao de comentários para melhor visualizacao do sistema\nAdicionar mensagem default para div de municipio\nAlterar logica para permitir chamada do ano de 2018\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-30T14:52:22.000-03:00"
+  },
+  {
+    "short_id": "2ded26d7",
+    "title": "Merge branch 'dev' into 'dev-mauro'",
+    "message": "Merge branch 'dev' into 'dev-mauro'\n\nAdicionar modalidade familia_acolhedora\n\nSee merge request dgi/censosuas!220",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-30T10:57:19.000-03:00"
+  },
+  {
+    "short_id": "d1ab148f",
+    "title": "Adicionar variavel modadalidade familia_acolhedora no bloco 1",
+    "message": "Adicionar variavel modadalidade familia_acolhedora no bloco 1\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-30T10:54:11.000-03:00"
+  },
+  {
+    "short_id": "0a00ae7b",
+    "title": "Identacao",
+    "message": "Identacao\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-30T10:53:06.000-03:00"
+  },
+  {
+    "short_id": "7e25d645",
+    "title": "Adicionar variavel de modalidade para filtrar familia_acolhedora",
+    "message": "Adicionar variavel de modalidade para filtrar familia_acolhedora\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-30T10:50:36.000-03:00"
+  },
+  {
+    "short_id": "212ff436",
+    "title": "Novas adicoes na ferramenta de PDF",
+    "message": "Novas adicoes na ferramenta de PDF\n\nAdicionar select de ano\nAdicionar o resto da logica do caso de creas\nAdicionar regra IBGE brasilia\nAdicionar ajax ano\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-30T10:32:40.000-03:00"
+  },
+  {
+    "short_id": "1853886e",
+    "title": "Adicionar mais funcoes de busca para a ferramenta de PDF",
+    "message": "Adicionar mais funcoes de busca para a ferramenta de PDF\n\nRemovido warning do rodape.\nAdicionada logica da funcao de chamar CRAS para PDF.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-27T20:12:34.000-03:00"
+  },
+  {
+    "short_id": "235354de",
+    "title": "Remover codigo comentado",
+    "message": "Remover codigo comentado\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-27T15:38:47.000-03:00"
+  },
+  {
+    "short_id": "e6693c94",
+    "title": "Remover comentarios e erros de jogar variaveis para codigos comentados",
+    "message": "Remover comentarios e erros de jogar variaveis para codigos comentados\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-27T15:38:11.000-03:00"
+  },
+  {
+    "short_id": "a281ff51",
+    "title": "Delete test file",
+    "message": "Delete test file\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-27T15:36:12.000-03:00"
+  },
+  {
+    "short_id": "7446376f",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nMickey\n\nSee merge request dgi/censosuas!216",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-26T17:14:08.000-03:00"
+  },
+  {
+    "short_id": "27047048",
+    "title": "Mickey",
+    "message": "Mickey\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-26T17:13:36.000-03:00"
+  },
+  {
+    "short_id": "20bfc0cc",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAlterar logica da regra de CPF do CRAS. Alterar condicional.\n\nSee merge request dgi/censosuas!215",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-26T16:11:00.000-03:00"
+  },
+  {
+    "short_id": "399ca5dd",
+    "title": "Alterar logica da regra de CPF do CRAS. Alterar condicional.",
+    "message": "Alterar logica da regra de CPF do CRAS. Alterar condicional.\n\nSe usuario nao estiver em gestao ou a lista de unidades com permissão para visualizar ainda estiver vazia, checar se o mesmo esta cadastrado no RH de alguma unidade deste tipo de entidade\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-26T16:10:45.000-03:00"
+  },
+  {
+    "short_id": "e85f314b",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDebug\n\nSee merge request dgi/censosuas!214",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-26T16:08:15.000-03:00"
+  },
+  {
+    "short_id": "06d06841",
+    "title": "Debug",
+    "message": "Debug\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-26T16:07:58.000-03:00"
+  },
+  {
+    "short_id": "695799ea",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDebug\n\nSee merge request dgi/censosuas!213",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-26T16:05:07.000-03:00"
+  },
+  {
+    "short_id": "f0431fca",
+    "title": "Debug",
+    "message": "Debug\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-26T16:04:32.000-03:00"
+  },
+  {
+    "short_id": "a3aa8653",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nFixUp! Sair.php\n\nSee merge request dgi/censosuas!212",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-25T16:29:49.000-03:00"
+  },
+  {
+    "short_id": "d69ffc01",
+    "title": "FixUp! Sair.php",
+    "message": "FixUp! Sair.php\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-25T16:29:34.000-03:00"
+  },
+  {
+    "short_id": "b666d01d",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nFixUp! Sair.php - Trocar funcao de destruir cookies e sessão\n\nSee merge request dgi/censosuas!211",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-25T16:00:43.000-03:00"
+  },
+  {
+    "short_id": "f08f4866",
+    "title": "FixUp! Sair.php - Trocar funcao de destruir cookies e sessão",
+    "message": "FixUp! Sair.php - Trocar funcao de destruir cookies e sessão\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-25T16:00:15.000-03:00"
+  },
+  {
+    "short_id": "682b7230",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nFixUp! sair\n\nSee merge request dgi/censosuas!210",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-25T11:14:18.000-03:00"
+  },
+  {
+    "short_id": "e29f07c4",
+    "title": "FixUp! sair",
+    "message": "FixUp! sair\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-25T11:13:43.000-03:00"
+  },
+  {
+    "short_id": "67dd1702",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nFixUp! sair\n\nSee merge request dgi/censosuas!209",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-25T11:03:12.000-03:00"
+  },
+  {
+    "short_id": "86e9e424",
+    "title": "FixUp! sair",
+    "message": "FixUp! sair\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-25T11:02:11.000-03:00"
+  },
+  {
+    "short_id": "9aa75ce2",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAdicionar checagem para caso gestao municipal seja DF\n\nSee merge request dgi/censosuas!208",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-25T10:55:07.000-03:00"
+  },
+  {
+    "short_id": "e0ffadf6",
+    "title": "Adicionar checagem para caso gestao municipal seja DF",
+    "message": "Adicionar checagem para caso gestao municipal seja DF\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-25T10:54:48.000-03:00"
+  },
+  {
+    "short_id": "cf08e663",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nRemove Debug\n\nSee merge request dgi/censosuas!207",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-25T10:51:57.000-03:00"
+  },
+  {
+    "short_id": "1c104272",
+    "title": "Remove Debug",
+    "message": "Remove Debug\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-25T10:51:36.000-03:00"
+  },
+  {
+    "short_id": "7ac127d3",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDebug\n\nSee merge request dgi/censosuas!206",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-25T10:50:28.000-03:00"
+  },
+  {
+    "short_id": "cbb054f0",
+    "title": "Debug",
+    "message": "Debug\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-25T10:50:14.000-03:00"
+  },
+  {
+    "short_id": "88e4dc53",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!205",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-25T10:48:26.000-03:00"
+  },
+  {
+    "short_id": "b1e4e348",
+    "title": "Debug",
+    "message": "Debug\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-25T10:47:46.000-03:00"
+  },
+  {
+    "short_id": "a332928a",
+    "title": "Update ferramenta de PDF e adicionar redirect no index.php",
+    "message": "Update ferramenta de PDF e adicionar redirect no index.php\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-24T17:29:12.000-03:00"
+  },
+  {
+    "short_id": "45b8ea76",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nABRIR QUESTIONARIOS -- CREAS, CENTRO POP e CENTRO DIA em PRODUCAO\n\nSee merge request dgi/censosuas!204",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-24T15:23:02.000-03:00"
+  },
+  {
+    "short_id": "a2f96d7a",
+    "title": "ABRIR QUESTIONARIOS -- CREAS, CENTRO POP e CENTRO DIA em PRODUCAO",
+    "message": "ABRIR QUESTIONARIOS -- CREAS, CENTRO POP e CENTRO DIA em PRODUCAO\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-24T15:22:34.000-03:00"
+  },
+  {
+    "short_id": "e7320694",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nDev\n\nSee merge request dgi/censosuas!203",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-24T11:48:41.000-03:00"
+  },
+  {
+    "short_id": "1d74e866",
+    "title": "Alterar regras de reload da area identificacao apos alterar no cadsuas",
+    "message": "Alterar regras de reload da area identificacao apos alterar no cadsuas\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-24T11:47:19.000-03:00"
+  },
+  {
+    "short_id": "420c58f2",
+    "title": "Adicionar CPF de testes da SNAS para visualizar questionários em prod",
+    "message": "Adicionar CPF de testes da SNAS para visualizar questionários em prod\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-24T11:46:52.000-03:00"
+  },
+  {
+    "short_id": "f07a5ee6",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-24T11:29:29.000-03:00"
+  },
+  {
+    "short_id": "16809829",
+    "title": "Remover e-mails antigos da lista de permissoes de Upload Creas POP",
+    "message": "Remover e-mails antigos da lista de permissoes de Upload Creas POP\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-24T11:29:21.000-03:00"
+  },
+  {
+    "short_id": "9447739d",
+    "title": "Merge branch 'dev' into 'dev-mauro'",
+    "message": "Merge branch 'dev' into 'dev-mauro'\n\nMerge mauro\n\nSee merge request dgi/censosuas!200",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-23T14:04:27.000-03:00"
+  },
+  {
+    "short_id": "135cd70f",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-23T11:36:19.000-03:00"
+  },
+  {
+    "short_id": "2fd4feb5",
+    "title": "Remover email paulo.clemente da lista de MDS para testes SNAS",
+    "message": "Remover email paulo.clemente da lista de MDS para testes SNAS\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-23T11:35:42.000-03:00"
+  },
+  {
+    "short_id": "78456b8b",
+    "title": "Merge branch 'dev-mauro' into 'dev'",
+    "message": "Merge branch 'dev-mauro' into 'dev'\n\nDev mauro\n\nSee merge request dgi/censosuas!199",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-23T11:02:39.000-03:00"
+  },
+  {
+    "short_id": "a15eadec",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-23T10:36:57.000-03:00"
+  },
+  {
+    "short_id": "beafe7e0",
+    "title": "Adicionar limpeza de cookie para sanar problema de \"null creas pop id\"",
+    "message": "Adicionar limpeza de cookie para sanar problema de \"null creas pop id\"\n\nHavia um problema no qual quando o usuario ia escolher outro centro pop\napós acessar um primeiro, ocorria um problema de cookie.\nOs cookeis agora sao todos zerados na tela de selecao de municipio\npara garantir o funcionamento correto do sistema.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-23T10:36:51.000-03:00"
+  },
+  {
+    "short_id": "bc1603a8",
+    "title": "Merge branch 'dev-saraiva' into 'dev'",
+    "message": "Merge branch 'dev-saraiva' into 'dev'\n\nDev saraiva\n\nSee merge request dgi/censosuas!198",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-20T20:51:34.000-03:00"
+  },
+  {
+    "short_id": "8bcf5313",
+    "title": "Adicionar condicional caso o GM nao esteja na lista de RH de gestao",
+    "message": "Adicionar condicional caso o GM nao esteja na lista de RH de gestao\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-20T20:50:49.000-03:00"
+  },
+  {
+    "short_id": "6de57352",
+    "title": "Adicionar regra de CPF para Centro DIA",
+    "message": "Adicionar regra de CPF para Centro DIA\n\nFoi adicionada a regra de forma diferente dos demais, pois aparenetmente\nsegundo as regras já inseridas anteriormente o usuario com tipo GM\njá é verificado anteriormente. Foi feita nova condicional para checar\nse usuario esta no RH de alguma unidade apesar de GM caso n seja encontrado\nno RH da GM.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-20T20:35:19.000-03:00"
+  },
+  {
+    "short_id": "c68f6da9",
+    "title": "Adicionar dados para o TXT e remover comentarios classe cadsuas",
+    "message": "Adicionar dados para o TXT e remover comentarios classe cadsuas\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-20T20:33:37.000-03:00"
+  },
+  {
+    "short_id": "5772f710",
+    "title": "Adicionar mais funcoes para a nova ferramenta de PDF",
+    "message": "Adicionar mais funcoes para a nova ferramenta de PDF\n\nFoi adicionada a logica para uso do Ajax para carregamento, foi adicionado o seletor de municipios e entidade.\nFoi adicionado o seletor de unidade para acolhimento municipal.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-20T19:19:16.000-03:00"
+  },
+  {
+    "short_id": "ce118651",
+    "title": "Adicionar regra de checagem de CPF para o CREAS, codigo de erro alterado",
+    "message": "Adicionar regra de checagem de CPF para o CREAS, codigo de erro alterado\n\nForam removidos diversos comentarios legados, foi removido os valores de\nentidades do cadsuas, juntamente com codigos comentados de debug.\n\nFoi adicionada toda a estrutura da regra de CPF.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-20T19:17:38.000-03:00"
+  },
+  {
+    "short_id": "b008d908",
+    "title": "Remover arquivo de swap do creas_pop e adicionar regra de CPF",
+    "message": "Remover arquivo de swap do creas_pop e adicionar regra de CPF\n\nFoi adicionada a validacao de CPF para o CREAS_POP para checar se o CPF\ndo preenchedor consta no RH da gestão.\n\nFoi removido um arquivo de swap que foi provavelmente comitado sem querer\npor alguem da equipe censo.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-20T19:15:49.000-03:00"
+  },
+  {
+    "short_id": "f3bfb0ec",
+    "title": "Adicionar test* no .gitignore e adicionar valor entidade txt",
+    "message": "Adicionar test* no .gitignore e adicionar valor entidade txt\n\nO arquivo txt foi criado para conter os valores de cada entidade, os quais\nrepetiam em diversos arquivos sem necessidade pois nem faziam parte de nenhum deles.\n\nFoi adicionado no .gitignore test* para que todo arquivo de teste não seja inserido no git.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-20T19:14:17.000-03:00"
+  },
+  {
+    "short_id": "3cf1db9c",
+    "title": "Modificar comentario e remover codigo comentado do lista.php do CRAS",
+    "message": "Modificar comentario e remover codigo comentado do lista.php do CRAS\n\nDurante uso dos dados do arquivo do CRAS para duplicar a regra de CPF\npara as outras unidades foram encontrados comentarios a serem modificados.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-20T19:12:46.000-03:00"
+  },
+  {
+    "short_id": "01b6f267",
+    "title": "Adicionar checagens de isset do cabecalho para remover warnings",
+    "message": "Adicionar checagens de isset do cabecalho para remover warnings\n\nAdicionar isset para diversas variaveis utilizadas pelo layout, as variaveis\neram utilizadas sem antes realizar checagem de existencia das mesmas, o que\nocasionava em diversos WARNINGs, e que estavam atrapalhando debugar os reais\nerros fatais ocorrendo na nova ferramenta de PDF durante debug.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-20T19:10:56.000-03:00"
+  },
+  {
+    "short_id": "fc31d949",
+    "title": "Remover codigos comentados e debugs que revelam dados do servidor.",
+    "message": "Remover codigos comentados e debugs que revelam dados do servidor.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-20T19:08:50.000-03:00"
+  },
+  {
+    "short_id": "7a92d744",
+    "title": "Adicionar prototipo ferramenta de baixar_pdfs | remover arquivo teste",
+    "message": "Adicionar prototipo ferramenta de baixar_pdfs | remover arquivo teste\n\nAdicionar arquivos referentes a nova ferramenta em desenvolvimento para que\nos gestores possam baixar os PDFs.\nAdicionar ultima versao do jQuery pois sera utilizado pela nova ferramenta.\nRemover linhas de codigo comentados que ainda estavam no código.\nIdentar corretamente arquivo seleciona_municipio.\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-19T20:26:36.000-03:00"
+  },
+  {
+    "short_id": "0dc16f78",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\nAdicionar UF na lista de municipios - status_censo\n\nSee merge request dgi/censosuas!196",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-18T14:51:26.000-03:00"
+  },
+  {
+    "short_id": "fea254f5",
+    "title": "Adicionar UF na lista de municipios - status_censo",
+    "message": "Adicionar UF na lista de municipios - status_censo\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-18T14:51:08.000-03:00"
+  },
+  {
+    "short_id": "7edc9d7f",
+    "title": "Merge branch 'dev' into 'master'",
+    "message": "Merge branch 'dev' into 'master'\n\natualizar produção\n\nSee merge request dgi/censosuas!195",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-18T14:12:41.000-03:00"
+  },
+  {
+    "short_id": "4e5c20c0",
+    "title": "Adicionar botão de acesso ao status_censo no menu principal",
+    "message": "Adicionar botão de acesso ao status_censo no menu principal\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-18T14:05:21.000-03:00"
+  },
+  {
+    "short_id": "ed747183",
+    "title": "Merge remote-tracking branch 'origin/dev' into dev",
+    "message": "Merge remote-tracking branch 'origin/dev' into dev\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-17T19:04:37.000-03:00"
+  },
+  {
+    "short_id": "12ee9f78",
+    "title": "Alteracoes status_censo - fix no ibge dos tipos convivencia e centro dia",
+    "message": "Alteracoes status_censo - fix no ibge dos tipos convivencia e centro dia\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-17T19:04:24.000-03:00"
+  },
+  {
+    "short_id": "940c5124",
+    "title": "Merge branch 'dev' into 'dev-mauro'",
+    "message": "Merge branch 'dev' into 'dev-mauro'\n\nDev\n\nSee merge request dgi/censosuas!191",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-17T17:48:05.000-03:00"
+  },
+  {
+    "short_id": "008ad187",
+    "title": "Merge branch 'dev-mauro' into 'dev'",
+    "message": "Merge branch 'dev-mauro' into 'dev'\n\n# Conflicts:\n#   questionario/acolhimento_estadual/bloco3.html",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-17T17:47:54.000-03:00"
+  },
+  {
+    "short_id": "11d68404",
+    "title": "Merge branch 'dev' into 'dev-gadelha'",
+    "message": "Merge branch 'dev' into 'dev-gadelha'\n\nDev\n\nSee merge request dgi/censosuas!189",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-17T17:45:14.000-03:00"
+  },
+  {
+    "short_id": "20e29fc4",
+    "title": "Remover arquivos de debug acolhimento_estadual",
+    "message": "Remover arquivos de debug acolhimento_estadual\n",
+    "author_name": "Danilo Cunha",
+    "committer_name": "Danilo Cunha",
+    "committer_email": "danilokage@gmail.com",
+    "committed_date": "2019-09-17T16:25:06.000-03:00"
+  },
+  {
+    "short_id": "950112c8",
+    "title": "Merge branch 'dev-julia' into 'dev'",
+    "message": "Merge branch 'dev-julia' into 'dev'\n\nDev julia\n\nSee merge request dgi/censosuas!186",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-17T11:18:45.000-03:00"
+  },
+  {
+    "short_id": "ddb4408f",
+    "title": "Merge branch 'dev' into 'dev-julia'",
+    "message": "Merge branch 'dev' into 'dev-julia'\n\n# Conflicts:\n#   questionario/acolhimento_estadual/bloco3.html",
+    "author_name": "Danilo Galvão da Cunha",
+    "committer_name": "Danilo Galvão da Cunha",
+    "committer_email": "danilo.cunha@terceirizado.cidadania.gov.br",
+    "committed_date": "2019-09-17T11:18:27.000-03:00"
+  }
+]
