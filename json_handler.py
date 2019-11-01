@@ -11,7 +11,7 @@ for element in reversed(json_commits):
     if "Merge branch" in element['message'] or "Merge remote" in element['message']:
         continue
     html_output += "<div>\n"
-    html_output += "<h2>" + element["title"] + "</h2>\n"
+    html_output += "<h2><p>" + element["title"] + "</p></h2>\n"
     html_output += "<h3>Commit: " + element["short_id"] + "</h3>\n"
     message_line_breaks = element["message"].replace("\n", "<br />\n")
     html_output += "<p>" + element["message"] + "</p>"
