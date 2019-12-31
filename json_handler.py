@@ -26,6 +26,6 @@ print(html_output)
 
 
 json_file.close()
-html_output_file = open("output2.html", "w")
+html_output_file = open("output.html", "w")
 html_output_file.write(html_output)
 html_output_file.close()
