@@ -2,11 +2,14 @@ import json
 
 
 # https://10.68.13.200:8888/api/v4/projects/24/repository/commits?per_page=900
+# Dez
+# https://10.68.13.200:8888/api/v4/projects/24/repository/commits?per_page=105
+
 with open('commits.json', 'r') as json_file:
     json_commits = json.load(json_file)
 
 
-html_output = "<html><body>"
+html_output = "<html><head><meta charset='utf-8'></head><body>"
 for element in reversed(json_commits):
     if "Merge branch" in element['message'] or "Merge remote" in element['message']:
         continue
@@ -23,6 +26,6 @@ print(html_output)
 
 
 json_file.close()
-html_output_file = open("output.html", "w")
+html_output_file = open("output2.html", "w")
 html_output_file.write(html_output)
 html_output_file.close()
